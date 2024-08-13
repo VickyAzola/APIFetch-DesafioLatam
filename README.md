@@ -23,7 +23,7 @@ durante la solicitud o la manipulación de los datos.
 ```
 APIFetch-DesafioLatam/
 ├── script.js
-├── desafio.html
+├── index.html
 └── README.md
 ```
 ## Tecnologías Utilizadas
@@ -47,7 +47,7 @@ APIFetch-DesafioLatam/
     ```bash
     cd APIFetch-DesafioLatam
     ```
-3. Abrir `desafio.html` en tu navegadorpara ver el sitio web.
+3. Abrir `index.html` en tu navegadorpara ver el sitio web.
 
 ## Autores
 
