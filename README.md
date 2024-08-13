@@ -17,7 +17,7 @@ La solicitud se maneja de manera asíncrona utilizando `async` y `await`.
 Además, se incluye un bloque try-catch para manejar posibles errores 
 durante la solicitud o la manipulación de los datos.
 
-[Revisa el resultado aqui]()
+[Revisa el resultado aqui](https://vickyazola.github.io/APIFetch-DesafioLatam/)
 
 ## Estructura del Proyecto
 ```
