@@ -1,4 +1,4 @@
-# Proyecto de Reproductor Multimedia
+# Traer Información desde una API
 
 ## Tabla de Contenidos
 
